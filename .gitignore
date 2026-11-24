@@ -1,0 +1,7 @@
+node_modules/
+.wrangler/
+dist/
+*.log
+.env
+# Local audit artifacts from @a-security — never commit
+risks.md
